@@ -1,4 +1,5 @@
-# Hi there, I'm Yasir 
+<div align="center">
+# Hi there, I'm Yasir 👋
 
 **AI & ML Engineer | Data Analyst | Data Scientist**
 
@@ -75,3 +76,5 @@
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Yasir-Aladwani&color=58A6FF&style=flat-square&label=Profile+Views)
+
+</div>
