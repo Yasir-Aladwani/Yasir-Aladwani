@@ -1,9 +1,12 @@
 <div align="center">
+
 # Hi there, I'm Yasir 👋
 
 **AI & ML Engineer | Data Analyst | Data Scientist**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF¢er=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Data+Analyst+%26+Data+Scientist;Deep+Learning+%26+Computer+Vision;NLP+%26+LLMs;Always+building+something+new!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Data+Analyst+%26+Data+Scientist;Deep+Learning+%26+Computer+Vision;NLP+%26+LLMs;Always+building+something+new!)
+
+</div>
 
 ---
 
@@ -15,6 +18,8 @@
 - 📫 Reach me at: **yasiraladwani@gmail.com**
 
 ---
+
+<div align="center">
 
 ## 🛠 Tech Stack
 
@@ -46,6 +51,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+</div>
+
 ---
 
 ## 🚀 Featured Projects
@@ -58,6 +65,8 @@
 | [Medical Insurance Analysis](https://github.com/Yasir-Aladwani/medical-insurance-cost-analysis) | EDA and ML model to predict medical insurance costs | Pandas, Scikit-learn |
 
 ---
+
+<div align="center">
 
 ## 📊 GitHub Stats
 
