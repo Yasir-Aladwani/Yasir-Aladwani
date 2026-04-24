@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Yasir Aladwani 👋
+# Hi there, I'm Yasir Aladwani 
 
 **AI & ML Engineer | Data Analysis | Deep Learning**
 
@@ -12,14 +12,14 @@
 
 <div align="center">
 
-## 🧑‍💻 About Me
+##  About Me
 
 </div>
 
-- 🎓 AI Bachelor's graduate passionate about **Data Analysis**, **Machine Learning**, and **Deep Learning**
-- 🔭 Building practical AI/ML projects with Python — from EDA to model deployment
-- 🌱 Currently exploring **Computer Vision**, **NLP** & **LLMs**
-- 📫 Reach me at: **yasiraladwani@gmail.com**
+-  AI Bachelor's graduate passionate about **Data Analysis**, **Machine Learning**, and **Deep Learning**
+-  Building practical AI/ML projects with Python — from EDA to model deployment
+-  Currently exploring **Computer Vision**, **NLP** & **LLMs**
+-  Reach me at: **yasiraladwani@gmail.com**
   
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasir%20Aladwani-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasir-aladwani-99669a402)
 
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Programming & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -63,7 +63,7 @@
 
 <div align="center">
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 </div>
 
@@ -80,7 +80,7 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasir-Aladwani&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -88,7 +88,7 @@
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasiraladwani@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasir-aladwani-99669a402)
