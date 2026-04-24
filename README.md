@@ -1,16 +1,16 @@
-# Hi there, I'm Yasir 👋
+# Hi there, I'm Yasir Aladwani 
 
-**AI Engineer | Data Scientist | Python Developer**
+**AI & ML Engineer | Data Analyst | Data Scientist**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF¢er=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Machine+Learning+%7C+Deep+Learning;Always+learning+new+technologies!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF¢er=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Data+Analyst+%26+Data+Scientist;Deep+Learning+%26+Computer+Vision;NLP+%26+LLMs;Always+building+something+new!)
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 AI Bachelor's graduate passionate about **Data Science**, **Machine Learning**, and **Deep Learning**
+- 🎓 AI Bachelor's graduate passionate about **Data Analysis**, **Machine Learning**, and **Deep Learning**
 - 🔭 Building practical AI/ML projects with Python — from EDA to model deployment
-- 🌱 Currently exploring **Deep Learning** & **LLMs**
+- 🌱 Currently exploring **Computer Vision**, **NLP** & **LLMs**
 - 📫 Reach me at: **yasiraladwani@gmail.com**
 
 ---
@@ -27,12 +27,23 @@
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-### Visualization & Tools
+### Computer Vision & NLP
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Visualization & BI
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
