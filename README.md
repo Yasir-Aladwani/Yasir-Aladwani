@@ -1,4 +1,4 @@
-# Hi there, I'm Yasir Aladwani 
+# Hi there, I'm Yasir 
 
 **AI & ML Engineer | Data Analyst | Data Scientist**
 
@@ -60,7 +60,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yasir-Aladwani&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasir-Aladwani&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yasir-Aladwani&theme=tokyonight&hide_border=true)
