@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Yasir Aladwani
+# Hi there, I'm Yasir Aladwani 👋
 
 **AI & ML Engineer | Data Analysis | Deep Learning**
 
@@ -10,7 +10,11 @@
 
 ---
 
+<div align="center">
+
 ## 🧑‍💻 About Me
+
+</div>
 
 - 🎓 AI Bachelor's graduate passionate about **Data Analysis**, **Machine Learning**, and **Deep Learning**
 - 🔭 Building practical AI/ML projects with Python — from EDA to model deployment
@@ -55,7 +59,11 @@
 
 ---
 
+<div align="center">
+
 ## 🚀 Featured Projects
+
+</div>
 
 | Project | Description | Tech |
 |---------|-------------|------|
