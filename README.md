@@ -67,12 +67,14 @@
 
 </div>
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Oil Price Prediction (LSTM)](https://github.com/Yasir-Aladwani/Oil-Price-Prediction-LSTM-RNN) | Time series forecasting of crude oil prices using LSTM neural networks | PyTorch, Python |
-| [News NLP Classification](https://github.com/Yasir-Aladwani/News-NLP-Classification) | Classifying news headlines using N-grams and Naive Bayes | NLP, Scikit-learn |
-| [Clustering From Scratch](https://github.com/Yasir-Aladwani/Clustering-Algorithms-From-Scratch) | K-Means and DBSCAN implemented from scratch with visualization | NumPy, Matplotlib |
-| [Medical Insurance Analysis](https://github.com/Yasir-Aladwani/medical-insurance-cost-analysis) | EDA and ML model to predict medical insurance costs | Pandas, Scikit-learn |
+| Project | Description |
+|---------|-------------|
+| [Oil Price Prediction](https://github.com/Yasir-Aladwani/Oil-Price-Prediction-LSTM-RNN) | Time series forecasting of crude oil prices using LSTM neural networks |
+| [Sleep Health Prediction](https://github.com/Yasir-Aladwani/AI-Sleep-Health-Prediction-System) | AI system to predict sleep health and disorders based on lifestyle factors |
+| [Worker Safety Monitoring](https://github.com/Yasir-Aladwani/AI-Worker-Safety-Monitoring-System) | Real-time AI monitoring system to detect safety violations in industrial environments |
+| [Medical Insurance Analysis](https://github.com/Yasir-Aladwani/Medical-Insurance-Cost-Analysis) | EDA and ML model to predict medical insurance costs |
+| [Clustering From Scratch](https://github.com/Yasir-Aladwani/Clustering-Algorithms-From-Scratch) | K-Means and DBSCAN implemented from scratch with visualization |
+| [News NLP Classification](https://github.com/Yasir-Aladwani/News-NLP-Classification) | Classifying news headlines using N-grams and Naive Bayes |
 
 ---
 
