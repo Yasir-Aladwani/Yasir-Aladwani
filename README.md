@@ -69,7 +69,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [Oil Price Prediction](https://github.com/Yasir-Aladwani/Oil-Price-Prediction-LSTM-RNN) | Time series forecasting of crude oil prices using LSTM neural networks |
+| [Oil Price Prediction (LSTM & RNN)](https://github.com/Yasir-Aladwani/Oil-Price-Prediction-LSTM-RNN) | Time series forecasting of crude oil prices using LSTM and RNN neural networks |
 | [Sleep Health Prediction](https://github.com/Yasir-Aladwani/AI-Sleep-Health-Prediction-System) | AI system to predict sleep health and disorders based on lifestyle factors |
 | [Worker Safety Monitoring](https://github.com/Yasir-Aladwani/AI-Worker-Safety-Monitoring-System) | Real-time AI monitoring system to detect safety violations in industrial environments |
 | [Medical Insurance Analysis](https://github.com/Yasir-Aladwani/Medical-Insurance-Cost-Analysis) | EDA and ML model to predict medical insurance costs |
