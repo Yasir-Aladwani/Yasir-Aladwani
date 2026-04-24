@@ -20,8 +20,8 @@
 - 🔭 Building practical AI/ML projects with Python — from EDA to model deployment
 - 🌱 Currently exploring **Computer Vision**, **NLP** & **LLMs**
 - 📫 Reach me at: **yasiraladwani@gmail.com**
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="16" height="16"> Connect with me on: [Yasir Aladwani](https://linkedin.com/in/yasir-aladwani-99669a402)
-رر
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasir%20Aladwani-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasir-aladwani-99669a402)
+
 ---
 
 <div align="center">
