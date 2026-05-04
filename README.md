@@ -71,11 +71,11 @@
 |---------|-------------|
 | [Oil Price Prediction (LSTM & RNN)](https://github.com/Yasir-Aladwani/Oil-Price-Prediction-LSTM-RNN) | Time series forecasting of crude oil prices using LSTM and RNN neural networks |
 | [Sleep Health Prediction](https://github.com/Yasir-Aladwani/AI-Sleep-Health-Prediction-System) | AI system to predict sleep health and disorders based on lifestyle factors |
+| [HudAI | هُداي](https://github.com/Yasir-Aladwani/hudai) | Team Project: AI-powered Islamic assistant for Hadith QA, Quran explanation, and faith-based emotional support using LLMs and RAG |
 | [Worker Safety Monitoring](https://github.com/Yasir-Aladwani/AI-Worker-Safety-Monitoring-System) | Real-time AI monitoring system to detect safety violations in industrial environments |
 | [Medical Insurance Analysis](https://github.com/Yasir-Aladwani/Medical-Insurance-Cost-Analysis) | EDA and ML model to predict medical insurance costs |
 | [Clustering From Scratch](https://github.com/Yasir-Aladwani/Clustering-Algorithms-From-Scratch) | K-Means and DBSCAN implemented from scratch with visualization |
 | [News NLP Classification](https://github.com/Yasir-Aladwani/News-NLP-Classification) | Classifying news headlines using N-grams and Naive Bayes |
-
 ---
 
 <div align="center">
