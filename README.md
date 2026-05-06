@@ -1,4 +1,4 @@
-<div align="center">
+<img width="747" height="412" alt="image" src="https://github.com/user-attachments/assets/d83d63a4-b19e-402c-8621-fe75ac460fcf" /><div align="center">
 
 # Hi there, I'm Yasir Aladwani 
 
@@ -28,7 +28,6 @@
 <div align="center">
 
 ##  Tech Stack
-
 ### Programming & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -42,10 +41,17 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### Computer Vision & NLP
+**Computer Vision**
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+
+**NLP & LLMs**
+
 ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![TF-IDF](https://img.shields.io/badge/TF--IDF-0d7377?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-10a37f?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6B21A8?style=for-the-badge&logo=python&logoColor=white)
 
 ### Visualization & BI
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
@@ -56,8 +62,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
 
 ---
 
