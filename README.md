@@ -1,5 +1,3 @@
-<img width="747" height="412" alt="image" src="https://github.com/user-attachments/assets/d83d63a4-b19e-402c-8621-fe75ac460fcf" /><div align="center">
-
 # Hi there, I'm Yasir Aladwani 
 
 **AI & ML Engineer | Data Analysis | Deep Learning**
