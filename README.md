@@ -83,8 +83,6 @@
 
 ##  GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasir-Aladwani&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yasir-Aladwani&theme=tokyonight&hide_border=true)
 
 ---
