@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Yasir Aladwani
-**AI & ML Engineer | Data Analysis | Deep Learning**
+**AI & ML Engineer | Data Scientist | Deep Learning**
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%7C+ML+Engineer;Data+Analyst+%7C+Data+Scientist;Deep+Learning+%7C+Computer+Vision;NLP+%7C+LLMs+%7C+RAG;Always+building+something+new!)
 
