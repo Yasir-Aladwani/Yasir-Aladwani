@@ -86,7 +86,7 @@
 
 ##  GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Yasir-Aladwani&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yasir-Aladwani&theme=tokyonight&hide_border=true&v=3)](https://streak-stats.demolab.com)
 
 ---
 
