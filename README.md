@@ -72,7 +72,7 @@
 
 <div align="center">
 
-##  Featured Projects
+## Featured Projects
 
 </div>
 
@@ -83,11 +83,11 @@
 | [HudAI - هُداي](https://github.com/Yasir-Aladwani/HudAI-Results-Showcase) | AI-powered Islamic assistant for Hadith QA, Quran explanation, and faith-based support using LLMs & RAG |
 | [Worker Safety Monitoring](https://github.com/Yasir-Aladwani/AI-Worker-Safety-Monitoring-System) | Real-time AI monitoring system to detect safety violations in industrial environments |
 | [Medical Insurance Analysis](https://github.com/Yasir-Aladwani/Medical-Insurance-Cost-Analysis) | EDA and ML model to predict medical insurance costs |
+| [WeshFahmna AI - وش فهمنا؟](https://github.com/Yasir-Aladwani/WeshFahmna-AI) | AI-powered call analysis combining speech recognition, speaker diarization, summarization, and sentiment analysis in a Streamlit dashboard |
 | [Clustering From Scratch](https://github.com/Yasir-Aladwani/Clustering-Algorithms-From-Scratch) | K-Means and DBSCAN implemented from scratch with visualization |
 | [News NLP Classification](https://github.com/Yasir-Aladwani/News-NLP-Classification) | Classifying news headlines using N-grams and Naive Bayes |
 
 ---
-
 <div align="center">
 
 ##  GitHub Stats
