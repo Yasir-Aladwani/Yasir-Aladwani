@@ -86,42 +86,42 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center"><img src="https://dummyimage.com/40x48/0d1117/70a5fd.png&amp;text=1" alt="1" width="32" height="38"></td>
+      <td align="center"><img src="https://dummyimage.com/40x48/0d1117/70a5fd.png&amp;text=1" alt="1" width="28" height="34"></td>
       <td><a href="https://github.com/Yasir-Aladwani/Oil-Price-Prediction-LSTM-RNN">Oil&nbsp;Price&nbsp;Prediction</a></td>
       <td>Time series forecasting of crude oil prices using LSTM and RNN neural networks</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://dummyimage.com/40x48/0d1117/70a5fd.png&amp;text=2" alt="2" width="32" height="38"></td>
+      <td align="center"><img src="https://dummyimage.com/40x48/0d1117/70a5fd.png&amp;text=2" alt="2" width="28" height="34"></td>
       <td><a href="https://github.com/Yasir-Aladwani/AI-Sleep-Health-Prediction-System">Sleep&nbsp;Health&nbsp;Prediction</a></td>
       <td>AI system to predict sleep health and disorders based on lifestyle factors</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://dummyimage.com/40x48/0d1117/70a5fd.png&amp;text=3" alt="3" width="32" height="38"></td>
+      <td align="center"><img src="https://dummyimage.com/40x48/0d1117/70a5fd.png&amp;text=3" alt="3" width="28" height="34"></td>
       <td><a href="https://github.com/Yasir-Aladwani/HudAI-Results-Showcase">HudAI&nbsp;-&nbsp;هُداي</a></td>
       <td>AI-powered Islamic assistant for Hadith QA, Quran explanation, and faith-based support using LLMs &amp; RAG</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://dummyimage.com/40x48/0d1117/70a5fd.png&amp;text=4" alt="4" width="32" height="38"></td>
+      <td align="center"><img src="https://dummyimage.com/40x48/0d1117/70a5fd.png&amp;text=4" alt="4" width="28" height="34"></td>
       <td><a href="https://github.com/Yasir-Aladwani/AI-Worker-Safety-Monitoring-System">Worker&nbsp;Safety&nbsp;Monitoring</a></td>
       <td>Real-time AI monitoring system to detect safety violations in industrial environments</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://dummyimage.com/40x48/0d1117/70a5fd.png&amp;text=5" alt="5" width="32" height="38"></td>
+      <td align="center"><img src="https://dummyimage.com/40x48/0d1117/70a5fd.png&amp;text=5" alt="5" width="28" height="34"></td>
       <td><a href="https://github.com/Yasir-Aladwani/Medical-Insurance-Cost-Analysis">Medical&nbsp;Insurance&nbsp;Analysis</a></td>
       <td>EDA and ML model to predict medical insurance costs</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://dummyimage.com/40x48/0d1117/70a5fd.png&amp;text=6" alt="6" width="32" height="38"></td>
+      <td align="center"><img src="https://dummyimage.com/40x48/0d1117/70a5fd.png&amp;text=6" alt="6" width="28" height="34"></td>
       <td><a href="https://github.com/Yasir-Aladwani/WeshFahmna-AI">WeshFahmna&nbsp;AI&nbsp;-&nbsp;وش&nbsp;فهمنا؟</a></td>
       <td>AI-powered call analysis combining speech recognition, speaker diarization, summarization, and sentiment analysis in a Streamlit dashboard</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://dummyimage.com/40x48/0d1117/70a5fd.png&amp;text=7" alt="7" width="32" height="38"></td>
+      <td align="center"><img src="https://dummyimage.com/40x48/0d1117/70a5fd.png&amp;text=7" alt="7" width="28" height="34"></td>
       <td><a href="https://github.com/Yasir-Aladwani/Clustering-Algorithms-From-Scratch">Clustering&nbsp;From&nbsp;Scratch</a></td>
       <td>K-Means and DBSCAN implemented from scratch with visualization</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://dummyimage.com/40x48/0d1117/70a5fd.png&amp;text=8" alt="8" width="32" height="38"></td>
+      <td align="center"><img src="https://dummyimage.com/40x48/0d1117/70a5fd.png&amp;text=8" alt="8" width="28" height="34"></td>
       <td><a href="https://github.com/Yasir-Aladwani/News-NLP-Classification">News&nbsp;NLP&nbsp;Classification</a></td>
       <td>Classifying news headlines using N-grams and Naive Bayes</td>
     </tr>
