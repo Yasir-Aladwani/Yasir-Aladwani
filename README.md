@@ -76,16 +76,48 @@
 
 </div>
 
-| Project | Description |
-|---------|-------------|
-| [Oil Price Prediction](https://github.com/Yasir-Aladwani/Oil-Price-Prediction-LSTM-RNN) | Time series forecasting of crude oil prices using LSTM and RNN neural networks |
-| [Sleep Health Prediction](https://github.com/Yasir-Aladwani/AI-Sleep-Health-Prediction-System) | AI system to predict sleep health and disorders based on lifestyle factors |
-| [HudAI - هُداي](https://github.com/Yasir-Aladwani/HudAI-Results-Showcase) | AI-powered Islamic assistant for Hadith QA, Quran explanation, and faith-based support using LLMs & RAG |
-| [Worker Safety Monitoring](https://github.com/Yasir-Aladwani/AI-Worker-Safety-Monitoring-System) | Real-time AI monitoring system to detect safety violations in industrial environments |
-| [Medical Insurance Analysis](https://github.com/Yasir-Aladwani/Medical-Insurance-Cost-Analysis) | EDA and ML model to predict medical insurance costs |
-| [WeshFahmna AI - وش فهمنا؟](https://github.com/Yasir-Aladwani/WeshFahmna-AI) | AI-powered call analysis combining speech recognition, speaker diarization, summarization, and sentiment analysis in a Streamlit dashboard |
-| [Clustering From Scratch](https://github.com/Yasir-Aladwani/Clustering-Algorithms-From-Scratch) | K-Means and DBSCAN implemented from scratch with visualization |
-| [News NLP Classification](https://github.com/Yasir-Aladwani/News-NLP-Classification) | Classifying news headlines using N-grams and Naive Bayes |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="35%">Project</th>
+      <th width="65%">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Yasir-Aladwani/Oil-Price-Prediction-LSTM-RNN">Oil&nbsp;Price&nbsp;Prediction</a></td>
+      <td>Time series forecasting of crude oil prices using LSTM and RNN neural networks</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Yasir-Aladwani/AI-Sleep-Health-Prediction-System">Sleep&nbsp;Health&nbsp;Prediction</a></td>
+      <td>AI system to predict sleep health and disorders based on lifestyle factors</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Yasir-Aladwani/HudAI-Results-Showcase">HudAI&nbsp;-&nbsp;هُداي</a></td>
+      <td>AI-powered Islamic assistant for Hadith QA, Quran explanation, and faith-based support using LLMs &amp; RAG</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Yasir-Aladwani/AI-Worker-Safety-Monitoring-System">Worker&nbsp;Safety&nbsp;Monitoring</a></td>
+      <td>Real-time AI monitoring system to detect safety violations in industrial environments</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Yasir-Aladwani/Medical-Insurance-Cost-Analysis">Medical&nbsp;Insurance&nbsp;Analysis</a></td>
+      <td>EDA and ML model to predict medical insurance costs</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Yasir-Aladwani/WeshFahmna-AI">WeshFahmna&nbsp;AI&nbsp;-&nbsp;وش&nbsp;فهمنا؟</a></td>
+      <td>AI-powered call analysis combining speech recognition, speaker diarization, summarization, and sentiment analysis in a Streamlit dashboard</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Yasir-Aladwani/Clustering-Algorithms-From-Scratch">Clustering&nbsp;From&nbsp;Scratch</a></td>
+      <td>K-Means and DBSCAN implemented from scratch with visualization</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Yasir-Aladwani/News-NLP-Classification">News&nbsp;NLP&nbsp;Classification</a></td>
+      <td>Classifying news headlines using N-grams and Naive Bayes</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 <div align="center">
